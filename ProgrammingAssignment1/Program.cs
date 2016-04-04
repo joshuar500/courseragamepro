@@ -37,7 +37,7 @@ namespace ProgrammingAssignment1
             float point2Y = float.Parse(Console.ReadLine());
 
             // print both values for (x2, y2)
-            Console.WriteLine("Values for 1st set are (" + point2X + ", " + point2Y + ")");
+            Console.WriteLine("Values for 2nd set are (" + point2X + ", " + point2Y + ")");
 
             // add some blank lines because pretty
             Console.WriteLine("");
