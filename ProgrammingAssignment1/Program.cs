@@ -18,7 +18,7 @@ namespace ProgrammingAssignment1
             float point1X = float.Parse(Console.ReadLine());
 
             // Ask the user for the second value
-            Console.WriteLine("Enter the 2nd value for y -- (" + point1X + ", y1): ");
+            Console.WriteLine("Enter the 1st value for y -- (" + point1X + ", y1): ");
             float point1Y = float.Parse(Console.ReadLine());
 
             // print both values for (x1, y1)
